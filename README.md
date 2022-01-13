@@ -6,10 +6,9 @@
 </div>
 
  
-<!--!
-[lllYuriCardoso](https://github-readme-stats.vercel.app/api?username=lllYuriCardoso&show_icons=true&theme=dark)
-[![lllYuriCardoso](https://github-readme-stats.vercel.app/api/top-langs/?username=lllYuriCardoso&layout=compact&theme=dark)](https://github.com/lllYuriCardoso/github-readme-stats)
-<img height="99%" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllYuriCardoso&layout=compact&langs_count=7&theme=dark"/>
+<!--
+![lllYuriCardoso](https://github-readme-stats.vercel.app/api?username=lllYuriCardoso&show_icons=true&theme=dark)
+![lllYuriCardoso](https://github-readme-stats.vercel.app/api/top-langs/?username=lllYuriCardoso&layout=compact&theme=dark)
 -->
 
 
